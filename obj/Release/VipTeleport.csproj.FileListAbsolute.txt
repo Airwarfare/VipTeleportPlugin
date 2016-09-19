@@ -1,0 +1,16 @@
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\VipTeleport.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\VipTeleport.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Assembly-CSharp-firstpass.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Assembly-CSharp.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Rocket.API.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Rocket.Core.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Rocket.Unturned.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\UnityEngine.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Pathfinding.JsonFx.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Pathfinding.Ionic.Zip.Reduced.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Pathfinding.ClipperLib.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\Pathfinding.Poly2Tri.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\bin\Release\UnityEngine.xml
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\obj\Release\VipTeleport.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\obj\Release\VipTeleport.dll
+c:\users\jordan\documents\visual studio 2015\Projects\VipTeleport\obj\Release\VipTeleport.pdb
